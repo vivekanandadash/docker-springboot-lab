@@ -43,7 +43,7 @@ docker-springboot-lab/
 * Writing Dockerfile
 * Running apps on custom ports
 * Using environment variables
-* MySQL integration with Docker
+* MySQL Integration with Docker
 * Introduction to Docker Compose
 
 ---
