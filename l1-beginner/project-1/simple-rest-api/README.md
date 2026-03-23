@@ -1,7 +1,7 @@
 # Java Docker App 🐳
 
 ## About
-A simple Spring Boot REST API dockerized and deployed on AWS EC2.
+A simple Spring Boot REST API Dockerized and Deployed on AWS EC2.
 
 ## Tech Stack
 - Java 21
