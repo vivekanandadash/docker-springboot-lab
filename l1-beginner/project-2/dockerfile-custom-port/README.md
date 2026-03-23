@@ -104,7 +104,7 @@ Browser → localhost:9091 → Docker → container:9090 → Spring Boot
 
 ## 📚 What I Learned
 
-* How Docker exposes applications using port mapping
+* How Docker Exposes applications using port mapping
 * Why different ports are used in real-world systems
 * How multiple applications run on the same machine using different host ports
 
