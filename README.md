@@ -1,6 +1,6 @@
 # 🚀 Docker + Spring Boot Learning Lab
 
-This repository contains a structured, hands-on learning journey for mastering **Docker with Spring Boot**, progressing from beginner to advanced microservices architecture.
+This repository contains a structured, hands-on learning journey for mastering **Docker with Spring Boot**, progressing from Beginner to Advanced microservices architecture.
 
 ---
 
